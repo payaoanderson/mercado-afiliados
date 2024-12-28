@@ -48,6 +48,17 @@ main {
     justify-content: center;
     margin-left: 300px;
 }
+.bloco2{
+    background-color: #2d3436;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.bloco2 h2{
+    justify-content: center;
+    margin-left: 445px;
+}
 
 /* Estilo para as imagens */
 .img1,
